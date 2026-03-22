@@ -1,0 +1,6 @@
+git init
+git add
+git commit -m "version"
+git remote add origin <ssh url name>
+git pull origin main or branch
+git push -u origin main or branch

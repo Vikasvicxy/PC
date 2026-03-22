@@ -5,3 +5,8 @@ git remote add origin <ssh url name>
 git pull origin main or branch
 git push -u origin main or branch
 git clone ssh url
+git fetch <ssh url>
+git branch <branch name>
+git branch -m <new name>
+git branch -d <branch name>
+
